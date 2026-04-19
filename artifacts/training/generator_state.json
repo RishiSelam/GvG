@@ -1,0 +1,20 @@
+{
+  "latent_dim": 32,
+  "epochs": 40,
+  "learning_rate": 0.0002,
+  "stealth_weight": 0.51,
+  "feedback_history": [
+    {
+      "round_id": 1,
+      "detection_rate": 1.0,
+      "stealth_weight": 0.43,
+      "generator_loss": 1.0984325408935547
+    },
+    {
+      "round_id": 2,
+      "detection_rate": 1.0,
+      "stealth_weight": 0.51,
+      "generator_loss": 1.1924021244049072
+    }
+  ]
+}

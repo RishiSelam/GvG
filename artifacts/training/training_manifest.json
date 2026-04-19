@@ -1,0 +1,30 @@
+{
+  "feature_count": 66,
+  "train_rows": 99,
+  "validation_rows": 33,
+  "test_rows": 33,
+  "sequence_train_rows": 90,
+  "sequence_validation_rows": 24,
+  "sequence_test_rows": 24,
+  "label_names": [
+    "BENIGN",
+    "Bot",
+    "DDoS",
+    "DoS GoldenEye",
+    "DoS Hulk",
+    "DoS Slowhttptest",
+    "DoS slowloris",
+    "FTP-Patator",
+    "Heartbleed",
+    "Infiltration",
+    "PortScan",
+    "SSH-Patator",
+    "Web Attack \ufffd Brute Force",
+    "Web Attack \ufffd Sql Injection",
+    "Web Attack \ufffd XSS"
+  ],
+  "device": "cpu",
+  "ids_epochs": 18,
+  "gan_epochs": 40,
+  "latent_dim": 32
+}

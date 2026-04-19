@@ -1,0 +1,11 @@
+{
+  "split": "test_tabular",
+  "stage": "robust",
+  "accuracy": 0.9696969696969697,
+  "precision": 0.96875,
+  "recall": 1.0,
+  "f1": 0.9841269841269841,
+  "roc_auc": 0.9838709677419355,
+  "false_positive_rate": 0.5,
+  "false_negative_rate": 0.0
+}

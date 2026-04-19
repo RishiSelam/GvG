@@ -1,0 +1,11 @@
+{
+  "split": "test_sequence",
+  "stage": "robust",
+  "accuracy": 0.9166666666666666,
+  "precision": 0.9166666666666666,
+  "recall": 1.0,
+  "f1": 0.9565217391304348,
+  "roc_auc": 0.75,
+  "false_positive_rate": 1.0,
+  "false_negative_rate": 0.0
+}

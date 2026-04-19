@@ -1,0 +1,36 @@
+CICIDS2017 EDA Report
+====================
+
+Dataset shape: (2520798, 79)
+Duplicate rows: 22818
+Total null values: 0
+Columns with nulls: 0
+
+Label distribution:
+  BENIGN: 2095057
+  DoS Hulk: 172846
+  DDoS: 128014
+  PortScan: 90694
+  DoS GoldenEye: 10286
+  FTP-Patator: 5931
+  DoS slowloris: 5385
+  DoS Slowhttptest: 5228
+  SSH-Patator: 3219
+  Bot: 1948
+  Web Attack � Brute Force: 1470
+  Web Attack � XSS: 652
+  Infiltration: 36
+  Web Attack � Sql Injection: 21
+  Heartbleed: 11
+
+Top numeric features by variance:
+  Flow Duration: std=35232764.0000
+  Fwd IAT Total: std=35166384.0000
+  Bwd IAT Total: std=30229234.0000
+  Flow Bytes/s: std=26570842.0000
+  Fwd IAT Max: std=25766500.0000
+  Flow IAT Max: std=25685370.0000
+  Idle Max: std=25617458.0000
+  Idle Mean: std=24848184.0000
+  Idle Min: std=24581434.0000
+  Fwd Header Length.1: std=22309622.0000

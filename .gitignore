@@ -1,4 +1,4 @@
-artifacts/
+
 preprocessed/
 __pycache__/
 *.py[cod]
